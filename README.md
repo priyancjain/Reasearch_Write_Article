@@ -34,7 +34,7 @@ This project demonstrates how to orchestrate multiple AI agents to collaborative
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/priyancjain/Reasearch_Write_Article.git
    cd MultiAgent
    ```
 2. **Set up a Python environment (recommended):**
